@@ -94,7 +94,9 @@ p {
   background-color: #ff4668;
   color: #ffffff;
 }
-
+.testimonial-text {
+  font-weight: 500;
+}
 .testimonial-image {
   width: 10%;
   border-radius: 100%;
